@@ -1,0 +1,21 @@
+C:\Users\Mack Mendes\Desktop\Treinamento C#\MVC 4\TISelvagem - Aula 9-3\TISelvagem.Repositorio\bin\Debug\TISelvagem.Repositorio.dll
+C:\Users\Mack Mendes\Desktop\Treinamento C#\MVC 4\TISelvagem - Aula 9-3\TISelvagem.Repositorio\bin\Debug\TISelvagem.Repositorio.pdb
+C:\Users\Mack Mendes\Desktop\Treinamento C#\MVC 4\TISelvagem - Aula 9-3\TISelvagem.Repositorio\bin\Debug\TISelvagem.Dominio.dll
+C:\Users\Mack Mendes\Desktop\Treinamento C#\MVC 4\TISelvagem - Aula 9-3\TISelvagem.Repositorio\bin\Debug\TISelvagem.Dominio.pdb
+C:\Users\Mack Mendes\Desktop\Treinamento C#\MVC 4\TISelvagem - Aula 9-3\TISelvagem.Repositorio\obj\Debug\TISelvagem.RepositorioADO.csprojResolveAssemblyReference.cache
+C:\Users\Mack Mendes\Desktop\Treinamento C#\MVC 4\TISelvagem - Aula 9-3\TISelvagem.Repositorio\obj\Debug\TISelvagem.Repositorio.dll
+C:\Users\Mack Mendes\Desktop\Treinamento C#\MVC 4\TISelvagem - Aula 9-3\TISelvagem.Repositorio\obj\Debug\TISelvagem.Repositorio.pdb
+C:\Users\Mack Mendes\Desktop\Treinamento C#\MVC 4\TISelvagem - Aula 9-1\TISelvagem.Repositorio\bin\Debug\TISelvagem.Repositorio.dll
+C:\Users\Mack Mendes\Desktop\Treinamento C#\MVC 4\TISelvagem - Aula 9-1\TISelvagem.Repositorio\bin\Debug\TISelvagem.Repositorio.pdb
+C:\Users\Mack Mendes\Desktop\Treinamento C#\MVC 4\TISelvagem - Aula 9-1\TISelvagem.Repositorio\bin\Debug\TISelvagem.Dominio.dll
+C:\Users\Mack Mendes\Desktop\Treinamento C#\MVC 4\TISelvagem - Aula 9-1\TISelvagem.Repositorio\bin\Debug\TISelvagem.Dominio.pdb
+C:\Users\Mack Mendes\Desktop\Treinamento C#\MVC 4\TISelvagem - Aula 9-1\TISelvagem.Repositorio\obj\Debug\TISelvagem.RepositorioADO.csprojResolveAssemblyReference.cache
+C:\Users\Mack Mendes\Desktop\Treinamento C#\MVC 4\TISelvagem - Aula 9-1\TISelvagem.Repositorio\obj\Debug\TISelvagem.Repositorio.dll
+C:\Users\Mack Mendes\Desktop\Treinamento C#\MVC 4\TISelvagem - Aula 9-1\TISelvagem.Repositorio\obj\Debug\TISelvagem.Repositorio.pdb
+E:\Treinamento\Projetos\MVC 4\TISelvagem - Aula 9-3\TISelvagem.Repositorio\bin\Debug\TISelvagem.Repositorio.dll
+E:\Treinamento\Projetos\MVC 4\TISelvagem - Aula 9-3\TISelvagem.Repositorio\bin\Debug\TISelvagem.Repositorio.pdb
+E:\Treinamento\Projetos\MVC 4\TISelvagem - Aula 9-3\TISelvagem.Repositorio\bin\Debug\TISelvagem.Dominio.dll
+E:\Treinamento\Projetos\MVC 4\TISelvagem - Aula 9-3\TISelvagem.Repositorio\bin\Debug\TISelvagem.Dominio.pdb
+E:\Treinamento\Projetos\MVC 4\TISelvagem - Aula 9-3\TISelvagem.Repositorio\obj\Debug\TISelvagem.RepositorioADO.csprojResolveAssemblyReference.cache
+E:\Treinamento\Projetos\MVC 4\TISelvagem - Aula 9-3\TISelvagem.Repositorio\obj\Debug\TISelvagem.Repositorio.dll
+E:\Treinamento\Projetos\MVC 4\TISelvagem - Aula 9-3\TISelvagem.Repositorio\obj\Debug\TISelvagem.Repositorio.pdb

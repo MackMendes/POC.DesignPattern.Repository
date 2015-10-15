@@ -1,0 +1,18 @@
+C:\Users\Mack Mendes\Desktop\Treinamento C#\MVC 4\TISelvagem\TISelvagem.Dominio\bin\Debug\TISelvagem.Dominio.dll
+C:\Users\Mack Mendes\Desktop\Treinamento C#\MVC 4\TISelvagem\TISelvagem.Dominio\bin\Debug\TISelvagem.Dominio.pdb
+C:\Users\Mack Mendes\Desktop\Treinamento C#\MVC 4\TISelvagem\TISelvagem.Dominio\obj\Debug\TISelvagem.Dominio.dll
+C:\Users\Mack Mendes\Desktop\Treinamento C#\MVC 4\TISelvagem\TISelvagem.Dominio\obj\Debug\TISelvagem.Dominio.pdb
+C:\Users\Mack Mendes\Desktop\Treinamento C#\MVC 4\TISelvagem - Aula 9-3\TISelvagem.Dominio\bin\Debug\TISelvagem.Dominio.dll
+C:\Users\Mack Mendes\Desktop\Treinamento C#\MVC 4\TISelvagem - Aula 9-3\TISelvagem.Dominio\bin\Debug\TISelvagem.Dominio.pdb
+C:\Users\Mack Mendes\Desktop\Treinamento C#\MVC 4\TISelvagem - Aula 9-3\TISelvagem.Dominio\obj\Debug\TISelvagem.Dominio.dll
+C:\Users\Mack Mendes\Desktop\Treinamento C#\MVC 4\TISelvagem - Aula 9-3\TISelvagem.Dominio\obj\Debug\TISelvagem.Dominio.pdb
+C:\Users\Mack Mendes\Desktop\Treinamento C#\MVC 4\TISelvagem - Aula 9-1\TISelvagem.Dominio\bin\Debug\TISelvagem.Dominio.dll
+C:\Users\Mack Mendes\Desktop\Treinamento C#\MVC 4\TISelvagem - Aula 9-1\TISelvagem.Dominio\bin\Debug\TISelvagem.Dominio.pdb
+C:\Users\Mack Mendes\Desktop\Treinamento C#\MVC 4\TISelvagem - Aula 9-1\TISelvagem.Dominio\obj\Debug\TISelvagem.Dominio.dll
+C:\Users\Mack Mendes\Desktop\Treinamento C#\MVC 4\TISelvagem - Aula 9-1\TISelvagem.Dominio\obj\Debug\TISelvagem.Dominio.pdb
+C:\Users\Mack Mendes\Desktop\Treinamento C#\MVC 4\TISelvagem - Aula 9-1\TISelvagem.Dominio\obj\Debug\TISelvagem.Dominio.csprojResolveAssemblyReference.cache
+E:\Treinamento\Projetos\MVC 4\TISelvagem - Aula 9-3\TISelvagem.Dominio\bin\Debug\TISelvagem.Dominio.dll
+E:\Treinamento\Projetos\MVC 4\TISelvagem - Aula 9-3\TISelvagem.Dominio\bin\Debug\TISelvagem.Dominio.pdb
+E:\Treinamento\Projetos\MVC 4\TISelvagem - Aula 9-3\TISelvagem.Dominio\obj\Debug\TISelvagem.Dominio.csprojResolveAssemblyReference.cache
+E:\Treinamento\Projetos\MVC 4\TISelvagem - Aula 9-3\TISelvagem.Dominio\obj\Debug\TISelvagem.Dominio.dll
+E:\Treinamento\Projetos\MVC 4\TISelvagem - Aula 9-3\TISelvagem.Dominio\obj\Debug\TISelvagem.Dominio.pdb

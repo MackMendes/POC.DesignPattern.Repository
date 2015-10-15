@@ -1,0 +1,48 @@
+C:\Users\Mack Mendes\Desktop\Treinamento C#\MVC 4\TISelvagem\TISelvagem.Aplicacao\bin\Debug\TISelvagem.Aplicacao.dll
+C:\Users\Mack Mendes\Desktop\Treinamento C#\MVC 4\TISelvagem\TISelvagem.Aplicacao\bin\Debug\TISelvagem.Aplicacao.pdb
+C:\Users\Mack Mendes\Desktop\Treinamento C#\MVC 4\TISelvagem\TISelvagem.Aplicacao\bin\Debug\TISelvagem.Dominio.dll
+C:\Users\Mack Mendes\Desktop\Treinamento C#\MVC 4\TISelvagem\TISelvagem.Aplicacao\bin\Debug\TISelvagem.Repositorio.dll
+C:\Users\Mack Mendes\Desktop\Treinamento C#\MVC 4\TISelvagem\TISelvagem.Aplicacao\bin\Debug\TISelvagem.Dominio.pdb
+C:\Users\Mack Mendes\Desktop\Treinamento C#\MVC 4\TISelvagem\TISelvagem.Aplicacao\bin\Debug\TISelvagem.Repositorio.pdb
+C:\Users\Mack Mendes\Desktop\Treinamento C#\MVC 4\TISelvagem\TISelvagem.Aplicacao\obj\Debug\TISelvagem.Aplicacao.dll
+C:\Users\Mack Mendes\Desktop\Treinamento C#\MVC 4\TISelvagem\TISelvagem.Aplicacao\obj\Debug\TISelvagem.Aplicacao.pdb
+C:\Users\Mack Mendes\Desktop\Treinamento C#\MVC 4\TISelvagem\TISelvagem.Aplicacao\obj\Debug\TISelvagem.Aplicacao.csprojResolveAssemblyReference.cache
+C:\Users\Mack Mendes\Desktop\Treinamento C#\MVC 4\TISelvagem - Aula 9-3\TISelvagem.Aplicacao\bin\Debug\TISelvagem.Aplicacao.dll
+C:\Users\Mack Mendes\Desktop\Treinamento C#\MVC 4\TISelvagem - Aula 9-3\TISelvagem.Aplicacao\bin\Debug\TISelvagem.Aplicacao.pdb
+C:\Users\Mack Mendes\Desktop\Treinamento C#\MVC 4\TISelvagem - Aula 9-3\TISelvagem.Aplicacao\bin\Debug\TISelvagem.Dominio.dll
+C:\Users\Mack Mendes\Desktop\Treinamento C#\MVC 4\TISelvagem - Aula 9-3\TISelvagem.Aplicacao\bin\Debug\TISelvagem.Repositorio.dll
+C:\Users\Mack Mendes\Desktop\Treinamento C#\MVC 4\TISelvagem - Aula 9-3\TISelvagem.Aplicacao\bin\Debug\TISelvagem.Dominio.pdb
+C:\Users\Mack Mendes\Desktop\Treinamento C#\MVC 4\TISelvagem - Aula 9-3\TISelvagem.Aplicacao\bin\Debug\TISelvagem.Repositorio.pdb
+C:\Users\Mack Mendes\Desktop\Treinamento C#\MVC 4\TISelvagem - Aula 9-3\TISelvagem.Aplicacao\obj\Debug\TISelvagem.Aplicacao.csprojResolveAssemblyReference.cache
+C:\Users\Mack Mendes\Desktop\Treinamento C#\MVC 4\TISelvagem - Aula 9-3\TISelvagem.Aplicacao\obj\Debug\TISelvagem.Aplicacao.dll
+C:\Users\Mack Mendes\Desktop\Treinamento C#\MVC 4\TISelvagem - Aula 9-3\TISelvagem.Aplicacao\obj\Debug\TISelvagem.Aplicacao.pdb
+C:\Users\Mack Mendes\Desktop\Treinamento C#\MVC 4\TISelvagem - Aula 9-1\TISelvagem.Aplicacao\bin\Debug\TISelvagem.Aplicacao.dll
+C:\Users\Mack Mendes\Desktop\Treinamento C#\MVC 4\TISelvagem - Aula 9-1\TISelvagem.Aplicacao\bin\Debug\TISelvagem.Aplicacao.pdb
+C:\Users\Mack Mendes\Desktop\Treinamento C#\MVC 4\TISelvagem - Aula 9-1\TISelvagem.Aplicacao\bin\Debug\TISelvagem.Dominio.dll
+C:\Users\Mack Mendes\Desktop\Treinamento C#\MVC 4\TISelvagem - Aula 9-1\TISelvagem.Aplicacao\bin\Debug\TISelvagem.Repositorio.dll
+C:\Users\Mack Mendes\Desktop\Treinamento C#\MVC 4\TISelvagem - Aula 9-1\TISelvagem.Aplicacao\bin\Debug\TISelvagem.Dominio.pdb
+C:\Users\Mack Mendes\Desktop\Treinamento C#\MVC 4\TISelvagem - Aula 9-1\TISelvagem.Aplicacao\bin\Debug\TISelvagem.Repositorio.pdb
+C:\Users\Mack Mendes\Desktop\Treinamento C#\MVC 4\TISelvagem - Aula 9-1\TISelvagem.Aplicacao\obj\Debug\TISelvagem.Aplicacao.csprojResolveAssemblyReference.cache
+C:\Users\Mack Mendes\Desktop\Treinamento C#\MVC 4\TISelvagem - Aula 9-1\TISelvagem.Aplicacao\obj\Debug\TISelvagem.Aplicacao.dll
+C:\Users\Mack Mendes\Desktop\Treinamento C#\MVC 4\TISelvagem - Aula 9-1\TISelvagem.Aplicacao\obj\Debug\TISelvagem.Aplicacao.pdb
+C:\Users\Mack Mendes\Desktop\Treinamento C#\MVC 4\TISelvagem - Aula 9-1\TISelvagem.Aplicacao\bin\Debug\TISelvagem.RepositorioEF.dll
+C:\Users\Mack Mendes\Desktop\Treinamento C#\MVC 4\TISelvagem - Aula 9-1\TISelvagem.Aplicacao\bin\Debug\EntityFramework.dll
+C:\Users\Mack Mendes\Desktop\Treinamento C#\MVC 4\TISelvagem - Aula 9-1\TISelvagem.Aplicacao\bin\Debug\TISelvagem.RepositorioEF.pdb
+C:\Users\Mack Mendes\Desktop\Treinamento C#\MVC 4\TISelvagem - Aula 9-1\TISelvagem.Aplicacao\bin\Debug\EntityFramework.xml
+C:\Users\Mack Mendes\Desktop\Treinamento C#\MVC 4\TISelvagem - Aula 9-1\TISelvagem.Aplicacao\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mack Mendes\Desktop\Treinamento C#\MVC 4\TISelvagem - Aula 9-1\TISelvagem.Aplicacao\bin\Debug\EntityFramework.SqlServer.xml
+E:\Treinamento\Projetos\MVC 4\TISelvagem - Aula 9-3\TISelvagem.Aplicacao\bin\Debug\TISelvagem.Aplicacao.dll
+E:\Treinamento\Projetos\MVC 4\TISelvagem - Aula 9-3\TISelvagem.Aplicacao\bin\Debug\TISelvagem.Aplicacao.pdb
+E:\Treinamento\Projetos\MVC 4\TISelvagem - Aula 9-3\TISelvagem.Aplicacao\bin\Debug\TISelvagem.Dominio.dll
+E:\Treinamento\Projetos\MVC 4\TISelvagem - Aula 9-3\TISelvagem.Aplicacao\bin\Debug\TISelvagem.Repositorio.dll
+E:\Treinamento\Projetos\MVC 4\TISelvagem - Aula 9-3\TISelvagem.Aplicacao\bin\Debug\TISelvagem.RepositorioEF.dll
+E:\Treinamento\Projetos\MVC 4\TISelvagem - Aula 9-3\TISelvagem.Aplicacao\bin\Debug\EntityFramework.dll
+E:\Treinamento\Projetos\MVC 4\TISelvagem - Aula 9-3\TISelvagem.Aplicacao\bin\Debug\EntityFramework.SqlServer.dll
+E:\Treinamento\Projetos\MVC 4\TISelvagem - Aula 9-3\TISelvagem.Aplicacao\bin\Debug\TISelvagem.Dominio.pdb
+E:\Treinamento\Projetos\MVC 4\TISelvagem - Aula 9-3\TISelvagem.Aplicacao\bin\Debug\TISelvagem.RepositorioEF.pdb
+E:\Treinamento\Projetos\MVC 4\TISelvagem - Aula 9-3\TISelvagem.Aplicacao\bin\Debug\TISelvagem.Repositorio.pdb
+E:\Treinamento\Projetos\MVC 4\TISelvagem - Aula 9-3\TISelvagem.Aplicacao\bin\Debug\EntityFramework.xml
+E:\Treinamento\Projetos\MVC 4\TISelvagem - Aula 9-3\TISelvagem.Aplicacao\bin\Debug\EntityFramework.SqlServer.xml
+E:\Treinamento\Projetos\MVC 4\TISelvagem - Aula 9-3\TISelvagem.Aplicacao\obj\Debug\TISelvagem.Aplicacao.csprojResolveAssemblyReference.cache
+E:\Treinamento\Projetos\MVC 4\TISelvagem - Aula 9-3\TISelvagem.Aplicacao\obj\Debug\TISelvagem.Aplicacao.dll
+E:\Treinamento\Projetos\MVC 4\TISelvagem - Aula 9-3\TISelvagem.Aplicacao\obj\Debug\TISelvagem.Aplicacao.pdb

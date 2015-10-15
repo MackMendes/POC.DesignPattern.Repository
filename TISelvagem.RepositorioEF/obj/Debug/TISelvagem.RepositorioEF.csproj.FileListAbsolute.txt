@@ -1,0 +1,24 @@
+C:\Users\Mack Mendes\Desktop\Treinamento C#\MVC 4\TISelvagem - Aula 9-1\TISelvagem.RepositorioEF\bin\Debug\TISelvagem.RepositorioEF.dll.config
+C:\Users\Mack Mendes\Desktop\Treinamento C#\MVC 4\TISelvagem - Aula 9-1\TISelvagem.RepositorioEF\bin\Debug\TISelvagem.RepositorioEF.dll
+C:\Users\Mack Mendes\Desktop\Treinamento C#\MVC 4\TISelvagem - Aula 9-1\TISelvagem.RepositorioEF\bin\Debug\TISelvagem.RepositorioEF.pdb
+C:\Users\Mack Mendes\Desktop\Treinamento C#\MVC 4\TISelvagem - Aula 9-1\TISelvagem.RepositorioEF\bin\Debug\EntityFramework.dll
+C:\Users\Mack Mendes\Desktop\Treinamento C#\MVC 4\TISelvagem - Aula 9-1\TISelvagem.RepositorioEF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mack Mendes\Desktop\Treinamento C#\MVC 4\TISelvagem - Aula 9-1\TISelvagem.RepositorioEF\bin\Debug\TISelvagem.Dominio.dll
+C:\Users\Mack Mendes\Desktop\Treinamento C#\MVC 4\TISelvagem - Aula 9-1\TISelvagem.RepositorioEF\bin\Debug\TISelvagem.Dominio.pdb
+C:\Users\Mack Mendes\Desktop\Treinamento C#\MVC 4\TISelvagem - Aula 9-1\TISelvagem.RepositorioEF\bin\Debug\EntityFramework.xml
+C:\Users\Mack Mendes\Desktop\Treinamento C#\MVC 4\TISelvagem - Aula 9-1\TISelvagem.RepositorioEF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mack Mendes\Desktop\Treinamento C#\MVC 4\TISelvagem - Aula 9-1\TISelvagem.RepositorioEF\obj\Debug\TISelvagem.RepositorioEF.csprojResolveAssemblyReference.cache
+C:\Users\Mack Mendes\Desktop\Treinamento C#\MVC 4\TISelvagem - Aula 9-1\TISelvagem.RepositorioEF\obj\Debug\TISelvagem.RepositorioEF.dll
+C:\Users\Mack Mendes\Desktop\Treinamento C#\MVC 4\TISelvagem - Aula 9-1\TISelvagem.RepositorioEF\obj\Debug\TISelvagem.RepositorioEF.pdb
+E:\Treinamento\Projetos\MVC 4\TISelvagem - Aula 9-3\TISelvagem.RepositorioEF\bin\Debug\TISelvagem.RepositorioEF.dll.config
+E:\Treinamento\Projetos\MVC 4\TISelvagem - Aula 9-3\TISelvagem.RepositorioEF\bin\Debug\TISelvagem.RepositorioEF.dll
+E:\Treinamento\Projetos\MVC 4\TISelvagem - Aula 9-3\TISelvagem.RepositorioEF\bin\Debug\TISelvagem.RepositorioEF.pdb
+E:\Treinamento\Projetos\MVC 4\TISelvagem - Aula 9-3\TISelvagem.RepositorioEF\bin\Debug\EntityFramework.dll
+E:\Treinamento\Projetos\MVC 4\TISelvagem - Aula 9-3\TISelvagem.RepositorioEF\bin\Debug\EntityFramework.SqlServer.dll
+E:\Treinamento\Projetos\MVC 4\TISelvagem - Aula 9-3\TISelvagem.RepositorioEF\bin\Debug\TISelvagem.Dominio.dll
+E:\Treinamento\Projetos\MVC 4\TISelvagem - Aula 9-3\TISelvagem.RepositorioEF\bin\Debug\TISelvagem.Dominio.pdb
+E:\Treinamento\Projetos\MVC 4\TISelvagem - Aula 9-3\TISelvagem.RepositorioEF\bin\Debug\EntityFramework.xml
+E:\Treinamento\Projetos\MVC 4\TISelvagem - Aula 9-3\TISelvagem.RepositorioEF\bin\Debug\EntityFramework.SqlServer.xml
+E:\Treinamento\Projetos\MVC 4\TISelvagem - Aula 9-3\TISelvagem.RepositorioEF\obj\Debug\TISelvagem.RepositorioEF.csprojResolveAssemblyReference.cache
+E:\Treinamento\Projetos\MVC 4\TISelvagem - Aula 9-3\TISelvagem.RepositorioEF\obj\Debug\TISelvagem.RepositorioEF.dll
+E:\Treinamento\Projetos\MVC 4\TISelvagem - Aula 9-3\TISelvagem.RepositorioEF\obj\Debug\TISelvagem.RepositorioEF.pdb
